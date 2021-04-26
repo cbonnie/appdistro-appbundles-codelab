@@ -20,7 +20,7 @@ Which would make your manifest look something like:
 ```
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:dist="http://schemas.android.com/apk/distribution"
-    package="com.google.android.instantapps.samples.instantenabledandroidappbundle">
+    package="dev.firebase.appdistro.android.codelab">
 
     <dist:module
         dist:instant="true">

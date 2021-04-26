@@ -1,3 +1,4 @@
+
 /*
  * Copyright 2018 Google LLC.
  *
@@ -14,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.google.android.instantapps.samples.instantenabledandroidappbundle
+package dev.firebase.appdistro.android.codelab
 
 import android.os.Bundle
 import android.view.View

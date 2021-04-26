@@ -20,7 +20,7 @@ apply plugin: 'kotlin-android'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.google.android.instantapps.samples.instantenabledandroidappbundle"
+        applicationId "dev.firebase.appdistro.android.codelab"
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 1
